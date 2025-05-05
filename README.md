@@ -3,11 +3,8 @@
 
 <div>
     <div>
-        <h4 align="center"> • 💻 Estudante de Desenvolvimento de Sistemas - 3º ano 🖥️ • </h4>
-        <h4 align="center"> • 🎮 Jogador de jogos rogue-like 🕹️ • </h4>
-        <h4 align="center"> • 👨🏻‍💻 Programador avulso 🧑🏻‍💻 • </h4>
-        <h4 align="center"> • ➕ Exatas embuido na alma ➖ • </h4>
-        <h4 align="center"> • 🖤 Usuário de Anime 🤍 • </h4>
+        <h4 align="center"> • 💻 Estudante de Sistemas de Informação 🖥️ • </h4>
+             <h4 align="center"> • 👨🏻‍💻 Programador avulso 🧑🏻‍💻 • </h4>
     </div>
 </div>
 
